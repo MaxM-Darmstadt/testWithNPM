@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MaxM-Darmstadt/testWithNPM#readme",
   "dependencies": {
-    "express": "4.9.6"
+    "express": "1.0.0"
   }
 }
