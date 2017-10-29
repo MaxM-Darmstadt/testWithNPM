@@ -1,0 +1,22 @@
+{
+  "name": "testwithnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxM-Darmstadt/testWithNPM.git"
+  },
+  "author": "Max Madl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxM-Darmstadt/testWithNPM/issues"
+  },
+  "homepage": "https://github.com/MaxM-Darmstadt/testWithNPM#readme",
+  "dependencies": {
+    "express": "1.0.0"
+  }
+}
