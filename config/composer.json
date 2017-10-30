@@ -1,0 +1,6 @@
+{
+  "require": {
+    	"facebook/php-sdk": "3.1.*",
+        "twig/twig": "1.*",
+  }
+}
